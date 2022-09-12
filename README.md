@@ -16,7 +16,6 @@ Meu foco atualmente está em desenvolver minhas habilidades em React.js
 <br>
 
 ### Minhas redes sociais: 🌐
-
 <br>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ian-almeida-3a707a240)
@@ -27,16 +26,24 @@ Meu foco atualmente está em desenvolver minhas habilidades em React.js
 <br>
 
 ### Tecnologias utilizadas: ⚙️
-
 <br>
 
 <div>
   <img align="center" heigth="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>
   <img align="center" heigth="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"/>
   <img align="center" heigth="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
-  <img align="center" heigth="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"/>
-  <img align="center" heigth="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>
-  <img align="center" heigth="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg"/>
   <img align="center" heigth="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/>
   <img align="center" heigth="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"/>
+</div>
+
+<br>
+<br>
+
+### Tecnologias que pretendo aprender: :gear:
+<br>
+
+<div>
+    <img align="center" heigth="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"/>
+    <img align="center" heigth="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>
+    <img align="center" heigth="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg"/>
 </div>
