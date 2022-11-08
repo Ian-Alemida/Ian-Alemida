@@ -2,9 +2,9 @@
 
 Me chamo Ian Almeida
 
-Estudando programação voltado a front-end na Alura
+Estou estudando programação voltado a desenvolvimento mobile na Alura
 
-Meu foco atualmente está em desenvolver minhas habilidades em React.js
+Meu foco atualmente está em desenvolver minhas habilidades em Flutter e em Dart
 
 <div>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ian-Alemida&show_icons=true&theme=highcontrast"/>
@@ -34,6 +34,8 @@ Meu foco atualmente está em desenvolver minhas habilidades em React.js
   <img align="center" heigth="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
   <img align="center" heigth="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/>
   <img align="center" heigth="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"/>
+  <img align="center" heigth="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />  
+  <img align="center" heigth="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
 </div>
 
 <br>
@@ -43,7 +45,6 @@ Meu foco atualmente está em desenvolver minhas habilidades em React.js
 <br>
 
 <div>
+    <img align="center" heigth="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />          
     <img align="center" heigth="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"/>
-    <img align="center" heigth="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>
-    <img align="center" heigth="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg"/>
 </div>
