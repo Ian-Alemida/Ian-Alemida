@@ -2,9 +2,9 @@
 
 Me chamo Ian Almeida
 
-Estou estudando programação voltado a desenvolvimento mobile na Alura
+Estou cursando analise e desenvolvimento de sistemas e estudo programação voltado a desenvolvimento front-end.
 
-Meu foco atualmente está em desenvolver minhas habilidades em Flutter e em Dart
+Meu foco atualmente está em desenvolver minhas habilidades em React.js
 
 <div>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ian-Alemida&show_icons=true&theme=highcontrast"/>
