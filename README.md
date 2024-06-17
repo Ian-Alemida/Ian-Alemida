@@ -1,10 +1,8 @@
-## Olá!👋 Eu sou Ian :smile:
+## Olá!👋 Eu sou Ian Almeida :smile:
 
-Me chamo Ian Almeida
+Atualmente cursando analise e desenvolvimento de sistemas, sou um Desenvolvedor Full-stack especializado em Next.js e Node.js, apaixonado por tecnologia e com uma sólida experiência em JavaScript. Para complementar meus estudos, também estou imerso na área de cibersegurança e sou um entusiasta da inteligência artificial.
 
-Estou cursando analise e desenvolvimento de sistemas e estudo programação voltado a desenvolvimento front-end.
-
-Meu foco atualmente está em desenvolver minhas habilidades em React.js
+Meu foco atualmente está em desenvolver minha compreensão e habilidades sobre IA para trazer soluções cada vez mais inovadoras, unindo essas ferramentas aos projetos que atuo.
 
 <div>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ian-Alemida&show_icons=true&theme=highcontrast"/>
