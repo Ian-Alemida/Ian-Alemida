@@ -1,8 +1,11 @@
 ## Olá!👋 Eu sou Ian Almeida :smile:
 
 📚 Estudante de análise e desenvolvimento de sistemas, sou um Desenvolvedor Full-stack especializado em Next.js e Node.js.<br/>
+
 ✨ Apaixonado por tecnologia desde cedo, busco criar soluções inovadoras para problemas complexos.<br/>
+
 ⚡Para complementar meus estudos, exploro o mundo da cibersegurança e sou um entusiasta da inteligência artificial.<br/>
+
 🎯 Atualmente, estou aprofundando meus conhecimentos em IA para integrar soluções avançadas aos projetos que atuo, visando inovação contínua.<br/>
 
 🔥 Meu Site Portfólio: [Ian | Personal Portfolio](https://devfollio.vercel.app/)
